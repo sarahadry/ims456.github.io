@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="mystyle.css">
+    <title>Homepage</title>
+<style>
+/* Footer */
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #8F282B;
+  margin-top: 20px;
+}
+</style>
+</head>
+<body>
+<div class="footer">
+   &copy; Copyright 2021. Native Community in Gua Musang Official Website. Recommended Browser Google Chrome Resolution 1366x768.
+    Last update 22 January 2022.
+     All Rights Reserved.
+</div>
+ </body>    
+</html>

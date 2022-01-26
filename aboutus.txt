@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="mystyle.css">
+    <link rel="stylesheet" href="aboutus.css">
+    <title>About us</title>
+<style>
+
+
+
+
+
+</style>
+</head>
+<body>
+    
+  <ul class="a">
+    <li><a href="aboutus.html">About us</a></li>
+    <li><a href="Contact us.html"> Contact us</a></li>
+    <li><a href="News.html"> News</a></li>
+    <li><a href="Education.html">Education</a></li>
+    <li><a href="Food.html">Food</a></li>
+    <li><a href="Nature & Adventure.html">Nature & Adventure</a></li>
+    <li class="dropdown" >
+      <a href="culture & Heritage.html" class="dropbtn" >Culture & Heritage</a>
+      <div class="dropdown-content">
+        <a href="Sewang Dance.html">Sewang Dance</a>
+        <a href="Musical Intruments.html">Musical Instruments</a>
+        <a href="Handicrafts.html">Handicrafts</a>
+        <a href="Hunting Tools.html">Hunting Tools</a>
+        <a href="Marriage.html">Marriage</a>
+        <a href="Beliefs & Taboos.html">Beliefs & Taboos</a>
+      </div>
+    </li>
+    
+    <li><a href="About.html">About</a></li>
+    <li><a href="index.html">Home</a></li>
+  </ul>
+     
+  </body>    
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body { 
+  background: #FF4848; 
+}
+</style>
+</head>
+
+<html>
+<body>
+<center>
+<html>
+<head>
+<body allign="center">
+<p><font color="white" font face="Monotype Corsiva" size="18" <b>Title: Native Community in Gua Musang</br> </font> </p>
+<p><font color="white" font face="Monotype Corsiva" size="8" <b>Student Information</br> </font> </p>
+<br>
+<br>
+<div class="row">
+  <div class="column" style="background-color:#dfd7d7;">
+    <h2>Fariesha Qurmila Binti Ahmad</h2>
+    <h2>2021505419</h>
+    <p><img src="c1.jpg" allign="center" vspace="12" hspace="12" width="165" height="165"></p>
+  </div>
+  <div class="column" style="background-color:#dfd7d7;">
+    <h2>Nur Sarah Adriana Binti Muhammad Fahmi</h2>
+    <h2>2021125743</h2>
+    <p><img src="c2.png" allign="center" vspace="12" hspace="12" width="156" height="156"></p>
+  </div>
+  <div class="column" style="background-color:#dfd7d7;">
+    <h2>Siti Nurul Farahani Binti Yaacob</h2>
+    <h2>2021120813</h2>
+    <p><img src="c3.jpg" allign="center" vspace="12" hspace="12" width="165" height="165"></p>
+  </div>
+</div>
+
+</body>
+</html>
+<br>
+<br>
+<br>
+
+<body>
+<center>
+<html>
+<head>
+     <body allign="center">
+     <table border="1" cellspacing="0" cellpadding="5" allign="center" width="800">
+     <tr allign="center" bgcolor="#dfd7d7">
+         <td width="200">TITLE</td>
+         <td width="400">DETAILS</td>
+     </tr>
+     <tr>
+        <td>Group</td>
+        <td>IMS456 ELEKTIF B</td>
+    </tr>
+    <tr>
+        <td>Course code</td>
+        <td>IMS456</td>
+    </tr>
+    <tr>
+       <td>Course name</td>
+       <td>Basic Web Design and Content Management</td>
+    <tr>
+        <td>Program code & mode</td>
+        <td>Program code: IM246, mode: Full time</td>
+    </tr>
+    <tr>
+        <td>Faculty</td>
+        <td>Faculty of Information Management</td>
+   </tr>
+   <tr> 
+       <td>Submission date</td>
+       <td>27 January 2022</td>
+   </tr>
+   <tr>
+       <td>Published Url</td>
+       <td></td>
+   </tables>
+
+</body>
+</html>
+<br>
+<br>
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.footer {
+   position: fixed;
+   left: 0;
+   bottom: 0;
+   width: 100%;
+   background-color: #fcf971;
+   color: white;
+   text-align: center;
+}
+</style>
+</head>
+<html>
+<head>
+<style>
+ul.a {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0 px;
+    overflow: hidden;
+    border: 1px solid #e7e7e7;
+    background-color: #8b8f91
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 15px 17px;
+    text-decoration: none;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: #fcf971;
+  }
+
+li a, .dropbtn {
+    display: inline-block;
+    color: black;
+    text-align: center;
+    padding: 13px 30px;
+  font-weight: 450; 
+    text-decoration: none;
+    font-family: "Segoe UI","Helvetica Neue",Arial,"Noto Sans",sans-serif;
+
+  }
+  
+  li a:hover, .dropdown:hover .dropbtn {
+    background-color:#fcf971;
+  }
+  
+  li.dropdown {
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+  }
+  
+  .dropdown-content a:hover {background-color: #ffffff;}
+  
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
